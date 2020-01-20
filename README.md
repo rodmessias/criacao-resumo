@@ -1,2 +1,11 @@
-# criacao-resumo
+# Criação de resumo
 Criação de um resumo baseado em uma entrada de texto, utilizando linguagem natural
+
+## Texto de entrada
+```<div id="biografiaContent"> <p>Raul Seixas (1945-1989) foi um músico, compositor e cantor brasileiro, um dos grandes representantes do rock no Brasil. É conhecido por músicas como “Maluco Beleza” e “Ouro de Tolo”.</p><p>Raul Santos Seixas (1945-1989) nasceu em Salvador, Bahia, no dia 28 de junho de 1945. Desde a adolescência, ficou impressionado com o fenômeno do Rock and Roll, o que levou a criar uma banda chamada "Os Panteras". Lançou o seu primeiro disco em 1968, “Raulzito e seus Panteras”. Mas o sucesso veio mesmo depois do lançamento do disco “Krig-ha, Bandolo!” (1973), cuja música principal, “Ouro de Tolo”, fez grande sucesso no Brasil. O disco tinha outras músicas de grande repercussão, como “Mosca na Sopa” e “Metamorfose Ambulante”.</p><p>Raul Seixas se envolveu com ocultismo, estudou filosofia e psicologia, o que o fez um dos poucos compositores a tentar imprimir suas idéias em letras aliadas ao som vibrante do Rock, juntamente com ritmos nordestinos.</p><p>Em 1974, criou a Sociedade Alternativa, um conceito de sociedade livre inspirada no ocultista Aleister Crowley e que foi tema de uma de suas canções do disco "Gita" (1974).</p><p>Raul Seixas produziu bons trabalhos como "Novo Aeon" (1975), "Metrô Linha 743" (1983), "Uah-Bap-Lu-Bap-Lah-Béin-Bum!" (1987) e "A Panela do Diabo"(1989), este último, em parceria com o roqueiro Marcelo Nova. Raul Seixas foi considerado um dos maiores músicos brasileiros, com grande número de admiradores.</p><p>Raul Seixas enfrentou sérios problemas com o álcool. Faleceu no dia 21 de agosto de 1989, com apenas 44 anos, vítima de pancreatite aguda.</p> </div>```
+
+## Texto de saída 3 sentenças
+```Raul Seixas produziu bons trabalhos como "Novo Aeon" (1975), "Metrô Linha 743" (1983), "Uah-Bap-Lu-Bap-Lah-Béin-Bum! " (1987) e "A Panela do Diabo"(1989), este último, em parceria com o roqueiro Marcelo Nova. Em 1974, criou a Sociedade Alternativa, um conceito de sociedade livre inspirada no ocultista Aleister Crowley e que foi tema de uma de suas canções do disco "Gita" (1974).```
+
+## Texto saída 2 sentenças
+```Raul Seixas produziu bons trabalhos como "Novo Aeon" (1975), "Metrô Linha 743" (1983), "Uah-Bap-Lu-Bap-Lah-Béin-Bum! " (1987) e "A Panela do Diabo"(1989), este último, em parceria com o roqueiro Marcelo Nova.```
